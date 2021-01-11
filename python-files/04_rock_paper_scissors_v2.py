@@ -31,7 +31,7 @@ def choose_answer(player):
 
 def ask_player_count():
     while True:
-        answer = input("Do you want to play against the computer?[Y/N] ").lower().strip()
+        answer = input("Do you want to play against the computer? ").lower().strip()
         check_quit(answer)
         if answer[0] == "y":
             return False
@@ -77,12 +77,14 @@ def play(multiplayer):
         play_again = input("Do you want to play again? ").lower().strip()
         check_quit(play_again)
         if play_again[0] == "y":
-            reset_game()
             break
         elif play_again[0] == "n":
+            print(separator)
             print("Thank you for playing!")
-            break
+            print(separator)
+            quit()
         print("That's not a valid option!")
+    reset_game()
 
 
 reset_game()
