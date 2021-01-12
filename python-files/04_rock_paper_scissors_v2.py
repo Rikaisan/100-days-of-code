@@ -19,6 +19,8 @@ def reset_game():
     print(f"------- Type {exit_key.upper()} at any time to exit -------")
     two_player_mode = ask_player_count()
     print(separator)
+    print(f"Let's play!\nChoose one: {', '.join(answers)}")
+    print(separator)
     play(two_player_mode)
 
 
