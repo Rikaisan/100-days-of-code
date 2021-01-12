@@ -46,7 +46,7 @@ def determine_winner(player1, player2, score):
           f"Player Two: {answers[possible_answers.index(player2)]}")
     if player1 == player2:
         print("It's a tie!")
-    elif player2 == possible_answers[(control_index + 2) % 3]:
+    elif player2 == possible_answers[(control_index + 2) % 3]:  # Simplified version of logic by Sora no Tenshi
         print("Player 1 Wins!")
         score["Player 1"] += 1
     else:
