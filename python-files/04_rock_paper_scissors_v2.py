@@ -4,6 +4,8 @@ separator = "--------------------------------------------------"
 answers = ("Rock", "Paper", "Scissors")
 possible_answers = tuple(i[0].lower() for i in answers)
 exit_key = "q"
+positive_answers = "y", "s", "t"
+negative_answers = "n", "f"
 target_score = 3
 
 
@@ -16,6 +18,7 @@ def reset_game():
     print(f"----- First one to win {target_score} games wins! -----")
     print(f"------- Type {exit_key.upper()} at any time to exit -------")
     two_player_mode = ask_player_count()
+    print(separator)
     play(two_player_mode)
 
 
@@ -32,9 +35,9 @@ def ask_player_count():
     while True:
         answer = input("Do you want to play against the computer? ").lower().strip()
         check_quit(answer)
-        if answer[0] == "y":
+        if answer[0] in positive_answers:
             return False
-        elif answer[0] == "n":
+        elif answer[0] in negative_answers:
             return True
         print("That's not a valid option! Try again.")
 
@@ -75,9 +78,9 @@ def play(multiplayer):
     while True:
         play_again = input("Do you want to play again? ").lower().strip()
         check_quit(play_again)
-        if play_again[0] == "y":
+        if play_again[0] in positive_answers:
             break
-        elif play_again[0] == "n":
+        elif play_again[0] in negative_answers:
             print(separator)
             print("Thank you for playing!")
             print(separator)
