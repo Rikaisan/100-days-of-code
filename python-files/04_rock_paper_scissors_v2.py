@@ -5,7 +5,6 @@ answers = ("Rock", "Paper", "Scissors")
 possible_answers = tuple(i[0].lower() for i in answers)
 exit_key = "q"
 target_score = 3
-is_playing = True
 
 
 def check_quit(player_input):
