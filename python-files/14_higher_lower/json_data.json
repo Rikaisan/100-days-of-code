@@ -1,0 +1,302 @@
+[
+    {
+        "country": "United States",
+        "description": "Social media platform",
+        "follower_count": 346,
+        "name": "Instagram"
+    },
+    {
+        "country": "Portugal",
+        "description": "Footballer",
+        "follower_count": 215,
+        "name": "Cristiano Ronaldo"
+    },
+    {
+        "country": "United States",
+        "description": "Musician and actress",
+        "follower_count": 183,
+        "name": "Ariana Grande"
+    },
+    {
+        "country": "United States",
+        "description": "Actor and professional wrestler",
+        "follower_count": 181,
+        "name": "Dwayne Johnson"
+    },
+    {
+        "country": "United States",
+        "description": "Musician and actress",
+        "follower_count": 174,
+        "name": "Selena Gomez"
+    },
+    {
+        "country": "United States",
+        "description": "Reality TV personality and businesswoman and Self-Made Billionaire",
+        "follower_count": 172,
+        "name": "Kylie Jenner"
+    },
+    {
+        "country": "United States",
+        "description": "Reality TV personality and businesswoman",
+        "follower_count": 167,
+        "name": "Kim Kardashian"
+    },
+    {
+        "country": "Argentina",
+        "description": "Footballer",
+        "follower_count": 149,
+        "name": "Lionel Messi"
+    },
+    {
+        "country": "United States",
+        "description": "Musician",
+        "follower_count": 145,
+        "name": "Beyonc\u00e9"
+    },
+    {
+        "country": "Brasil",
+        "description": "Footballer",
+        "follower_count": 138,
+        "name": "Neymar"
+    },
+    {
+        "country": "United States",
+        "description": "Magazine",
+        "follower_count": 135,
+        "name": "National Geographic"
+    },
+    {
+        "country": "Canada",
+        "description": "Musician",
+        "follower_count": 133,
+        "name": "Justin Bieber"
+    },
+    {
+        "country": "United States",
+        "description": "Musician",
+        "follower_count": 131,
+        "name": "Taylor Swift"
+    },
+    {
+        "country": "United States",
+        "description": "Reality TV personality and Model",
+        "follower_count": 127,
+        "name": "Kendall Jenner"
+    },
+    {
+        "country": "United States",
+        "description": "Musician and actress",
+        "follower_count": 119,
+        "name": "Jennifer Lopez"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "description": "Musician",
+        "follower_count": 113,
+        "name": "Nicki Minaj"
+    },
+    {
+        "country": "United States",
+        "description": "Sportswear multinational",
+        "follower_count": 109,
+        "name": "Nike"
+    },
+    {
+        "country": "United States",
+        "description": "Reality TV personality and businesswoman",
+        "follower_count": 108,
+        "name": "Khlo\u00e9 Kardashian"
+    },
+    {
+        "country": "United States",
+        "description": "Musician and actress",
+        "follower_count": 107,
+        "name": "Miley Cyrus"
+    },
+    {
+        "country": "United States",
+        "description": "Musician",
+        "follower_count": 94,
+        "name": "Katy Perry"
+    },
+    {
+        "country": "United States",
+        "description": "Reality TV personality",
+        "follower_count": 90,
+        "name": "Kourtney Kardashian"
+    },
+    {
+        "country": "United States",
+        "description": "Comedian and actor",
+        "follower_count": 89,
+        "name": "Kevin Hart"
+    },
+    {
+        "country": "United States",
+        "description": "Comedian",
+        "follower_count": 87,
+        "name": "Ellen DeGeneres"
+    },
+    {
+        "country": "Spain",
+        "description": "Football club",
+        "follower_count": 86,
+        "name": "Real Madrid CF"
+    },
+    {
+        "country": "Spain",
+        "description": "Football club",
+        "follower_count": 85,
+        "name": "FC Barcelona"
+    },
+    {
+        "country": "Barbados",
+        "description": "Musician and businesswoman",
+        "follower_count": 81,
+        "name": "Rihanna"
+    },
+    {
+        "country": "United States",
+        "description": "Musician and actress",
+        "follower_count": 80,
+        "name": "Demi Lovato"
+    },
+    {
+        "country": "United States",
+        "description": "Lingerie brand",
+        "follower_count": 69,
+        "name": "Victoria's Secret"
+    },
+    {
+        "country": "United States",
+        "description": "Actress and musician",
+        "follower_count": 68,
+        "name": "Zendaya"
+    },
+    {
+        "country": "Colombia",
+        "description": "Musician",
+        "follower_count": 66,
+        "name": "Shakira"
+    },
+    {
+        "country": "Canada",
+        "description": "Musician",
+        "follower_count": 65,
+        "name": "Drake"
+    },
+    {
+        "country": "United States",
+        "description": "Musician",
+        "follower_count": 64,
+        "name": "Chris Brown"
+    },
+    {
+        "country": "United States",
+        "description": "Basketball player",
+        "follower_count": 63,
+        "name": "LeBron James"
+    },
+    {
+        "country": "United States",
+        "description": "Actor",
+        "follower_count": 62,
+        "name": "Vin Diesel"
+    },
+    {
+        "country": "United States",
+        "description": "Musician",
+        "follower_count": 67,
+        "name": "Cardi B"
+    },
+    {
+        "country": "United Kingdom",
+        "description": "Footballer",
+        "follower_count": 82,
+        "name": "David Beckham"
+    },
+    {
+        "country": "United States",
+        "description": "Musician",
+        "follower_count": 61,
+        "name": "Billie Eilish"
+    },
+    {
+        "country": "United States",
+        "description": "Musician and actor",
+        "follower_count": 59,
+        "name": "Justin Timberlake"
+    },
+    {
+        "country": "Europe",
+        "description": "Club football competition",
+        "follower_count": 58,
+        "name": "UEFA Champions League"
+    },
+    {
+        "country": "United States",
+        "description": "Space agency",
+        "follower_count": 56,
+        "name": "NASA"
+    },
+    {
+        "country": "United Kingdom",
+        "description": "Actress",
+        "follower_count": 56,
+        "name": "Emma Watson"
+    },
+    {
+        "country": "Canada",
+        "description": "Musician",
+        "follower_count": 57,
+        "name": "Shawn Mendes"
+    },
+    {
+        "country": "India",
+        "description": "Cricketer",
+        "follower_count": 55,
+        "name": "Virat Kohli"
+    },
+    {
+        "country": "United States",
+        "description": "Model",
+        "follower_count": 54,
+        "name": "Gigi Hadid"
+    },
+    {
+        "country": "India",
+        "description": "Actress and musician",
+        "follower_count": 53,
+        "name": "Priyanka Chopra Jonas"
+    },
+    {
+        "country": "China",
+        "description": "Social media platform",
+        "follower_count": 52,
+        "name": "9GAG"
+    },
+    {
+        "country": "Brasil",
+        "description": "Footballer",
+        "follower_count": 51,
+        "name": "Ronaldinho"
+    },
+    {
+        "country": "Colombia",
+        "description": "Musician",
+        "follower_count": 50,
+        "name": "Maluma"
+    },
+    {
+        "country": "Cuba",
+        "description": "Musician",
+        "follower_count": 49,
+        "name": "Camila Cabello"
+    },
+    {
+        "country": "United States",
+        "description": "Club Basketball Competition",
+        "follower_count": 47,
+        "name": "NBA"
+    }
+]
